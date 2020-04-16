@@ -1,0 +1,3 @@
+# Linear-Regression-Analysis-of-Population-Growth-and-Literacy-Growth
+This project is based on the basics of Machine Learning through Linear Regression wherein the census data has been visualized to observe the relation between the population growth rate and literacy rate.
+After discovering the best fitting linear regression model of the data, the prediction about the future patterns and requirements that will be needed to suffice the growth in population without hampering the growth of literacy rate can be made. This project has been made in R programming language since it has sufficient libraries for plotting of data and application of machine learning.
